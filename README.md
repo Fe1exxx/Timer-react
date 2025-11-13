@@ -88,5 +88,3 @@
 - 🔗 **Портфолио**: [https://github.com/Fe1exxx?tab=repositories]
 
 ---
-
-<br>
