@@ -85,6 +85,6 @@
 - 📧 **Email**: [maxas1488@gmail.com]  
 - 💼 **Telegram**: [@fex_d]  
 - 🔗 **Канал в телеграме**: [https://t.me/devopsfex_d]
-- 🔗 **Портфолио**: [https://github.com/Fe1exxx?tab=repositories]
+- 🔗 **Портфолио**: [https://fe1exxx.github.io/Portfolio/]
 
 ---
